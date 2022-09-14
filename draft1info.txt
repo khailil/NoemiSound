@@ -1,0 +1,12 @@
+Currently, I've gotten to adding the ambient background noises, footsteps, 
+the sound of the tree breaking as the spirit wakes up and leaves it, 
+and one version of the breathing sound that I'm working on.
+The background sounds were pulled from a free sound website* and edited together,
+as was one of the sounds for the tree breaking and one of the sounds for the
+breathing. The footsteps were all made from sounds that I recorded of leaves being stepped on, 
+the sound my umbrella makes when I grab it, and tapping the tip of the umbrella on my couch.
+Some of the sounds I used to make the breathing came from running my finger along the back of an old CRT 
+television and pushing a rubber stopper against a dresser.
+
+For the sake of ease, I exported these smaller sounds as mp3's after mixing them so that it'd be easier
+to move them around and retime in the final draft. I've also included an example of one of these sounds.
